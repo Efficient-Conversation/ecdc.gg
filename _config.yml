@@ -1,0 +1,16 @@
+# Site settings
+title: Efficient Conversation
+tagline: By Efficient Conversation Dev Team
+description: The official website for Efficient Conversation.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Efficient-Conversation.GitHub.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: assets/sass
+
+# Collections
+# Add new panels as HTML files inside the _panels folder
+collections:
+  - panels
