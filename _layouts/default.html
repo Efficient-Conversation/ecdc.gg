@@ -27,7 +27,9 @@
 						<nav>
 							<ul>
 								{% for panel in site.panels %}
+									{% if panel.title != "nolink" %}
 									<li><a href="#{{ panel.html_id }}">{{ panel.title }}</a></li>
+									{% endif %}
 								{% endfor %}
 							</ul>
 						</nav>
