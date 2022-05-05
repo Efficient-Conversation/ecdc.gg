@@ -17,3 +17,4 @@ Open Powershell or a terminal and run `gem install bundler jekyll`, once that co
 
 ### Step 3
 To start the web server run `bundle exec jekyll serve` in Powershell or a terminal.
+ 
