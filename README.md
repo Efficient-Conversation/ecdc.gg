@@ -1,11 +1,8 @@
-# Efficient Conversation's Website [![Build Status](https://travis-ci.org/Efficient-Conversation/Efficient-Conversation.GitHub.io.svg?branch=master)](https://travis-ci.org/Efficient-Conversation/Efficient-Conversation.GitHub.io)
+# Efficient Conversation's Website [![Build, deploy, and scan](https://github.com/Efficient-Conversation/ecdc.gg/actions/workflows/build-deploy-scan.yml/badge.svg)](https://github.com/Efficient-Conversation/ecdc.gg/actions/workflows/build-deploy-scan.yml)
 
 ## Built With
-
-* [Ruby](https://www.ruby-lang.org) 2.5.5 - Runtime for Jekyll
-* [Jekyll](https://jekyllrb.com/) - Static Site Generator
-* HTML/CSS
-* JavaScript
+- [Jekyll](https://jekyllrb.com/)
+- [Cloudflare](https://www.cloudflare.com/)
 
 ## Instructions
 ### Step 1
