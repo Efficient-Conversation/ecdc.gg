@@ -4,6 +4,7 @@ tagline: By Efficient Conversation Dev Team
 description: The official website for Efficient Conversation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Efficient-Conversation.GitHub.io" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
